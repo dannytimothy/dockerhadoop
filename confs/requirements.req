@@ -1,0 +1,10 @@
+numpy
+bash_kernel
+matplotlib
+jupyter
+pyspark
+scikit-learn
+dask
+pandas
+findspark
+dask-yarn
